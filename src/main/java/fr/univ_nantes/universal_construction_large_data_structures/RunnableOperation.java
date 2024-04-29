@@ -1,4 +1,4 @@
-package org.example;
+package fr.univ_nantes.universal_construction_large_data_structures;
 
 /**
  * This class represent a void operation on registers (i.e. a procedure).

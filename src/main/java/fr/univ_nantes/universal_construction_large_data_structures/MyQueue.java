@@ -1,4 +1,4 @@
-package org.example;
+package fr.univ_nantes.universal_construction_large_data_structures;
 
 /**
  * Lock-free queue that uses read/write operations of Register. Relieves the user from synchronization management
